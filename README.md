@@ -1,5 +1,7 @@
 ## Plant Disease Detector
 
+Dataset from Kaggle: [https://www.kaggle.com/datasets/emmarex/plantdisease](https://www.kaggle.com/datasets/emmarex/plantdisease)
+
 ### Run the Project Locally:
 
 - It is recommended to set up the project inside a virtual environment to keep the dependencies separated.
